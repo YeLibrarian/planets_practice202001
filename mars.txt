@@ -4,3 +4,5 @@ But the mummy will appreciate the lack of humidity
 Let's figure out how to get to Mars first
 
 This is a new line Ximena added to branch XMG-pratice on 8/10/2021.
+
+This is another line added to branch XMG-practice.
